@@ -1,4 +1,4 @@
-name: Azure Terraform CLI
+name: Create-blob-storage
 on:
   pull_request:
     paths: ["10-github-actions-cicd-sin-terraform-cloud/12-azure-cicd/**"]
